@@ -26,6 +26,7 @@ Bu proje, mobil uygulama geliştirme dersinin bitirme ödevi isterlerine, klasö
 
 
 ```bash
+Projeyi klonlayın
 git clone <repo-link>
 
 Proje klasörüne girin:
