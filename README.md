@@ -24,7 +24,7 @@ Bu proje, mobil uygulama geliştirme dersinin bitirme ödevi isterlerine, klasö
 
 ## ⚙️ Kurulum & Çalıştırma Adımları
 
-1. Projeyi cihazınıza klonlayın:
+
 ```bash
 git clone <repo-link>
 
